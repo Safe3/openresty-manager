@@ -69,6 +69,12 @@ Modern, secure, and elegant server control panel, open source alternative to Ope
 
 OpenResty Manager is not only easy to use but also easy to install, supports both host and container environments.
 
+- ### Cloud Deploy
+
+&nbsp;&nbsp;<a href="https://app.rainyun.com/apps/rca/store/6202?ref=689306" target="_blank"><img height="42" src="https://rainyun-apps.cn-nb1.rains3.com/materials/deploy-on-rainyun-cn.svg" alt="雨云"></a>
+
+&nbsp;&nbsp;<a href="https://www.dkdun.cn/aff/RXBQPEUU" target="_blank"><img height="36" src="https://raw.githubusercontent.com/Safe3/openresty-manager/refs/heads/main/docs/dkdun.png" alt="林枫云"></a>
+
 - ### Host Version Install
 
 > :biohazard: ***If the server is using cloud services, remember to open the TCP port 80, 443 and 34567 required for OpenResty Manager***
